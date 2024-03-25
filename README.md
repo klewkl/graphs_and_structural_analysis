@@ -10,6 +10,10 @@ This project aims to develop graph-based recommender systems, specifically focus
 
 ## Contents 
 - Data Source: data folder contains main datasets and EDA notebooks for data preprocessing.
+- Models: contains notebooks for models implementation (PageRank, LightGCN) 
+
+
+
 
 
 
